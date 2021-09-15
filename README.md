@@ -13,6 +13,6 @@ Regularization techniques such as lasso and ridge regression overcome some of th
 
 Ridge regression shrinks the coefficients estimates towards zero, in this way improving the variability, reducing the variance while slightly increasing the bias and raising the overall accuracy of the model.
 
-Another regularization technique called lasso improves both accuracy and model interpretability by selecting which coefficients to shrink and by shrinking some of them exactly to zero 
+Another regularization technique called lasso (Least Absolute Shrinkage and Selection Operator) improves both accuracy and model interpretability by selecting which coefficients to shrink and by shrinking some of them exactly to zero 
 
 
